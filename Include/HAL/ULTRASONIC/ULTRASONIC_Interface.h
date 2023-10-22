@@ -1,0 +1,13 @@
+/*
+ * ULTRASONIC_Interface.h
+ *
+ *  Created on: Jul 21, 2023
+ *      Author: Hesha
+ */
+
+#ifndef INCLUDE_HAL_ULTRASONIC_ULTRASONIC_INTERFACE_H_
+#define INCLUDE_HAL_ULTRASONIC_ULTRASONIC_INTERFACE_H_
+u16 HULTRASONIC_u8ReadDistance(void);
+
+
+#endif /* INCLUDE_HAL_ULTRASONIC_ULTRASONIC_INTERFACE_H_ */
